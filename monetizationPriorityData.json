@@ -6,8 +6,8 @@
   "isTestUnity": true,
 
   "interstitialPriority": [
-    "UnityAds",
-    "AdMob"
+    "AdMob",
+    "UnityAds"
   ],
   "rewardedPriority": [
     "UnityAds",
