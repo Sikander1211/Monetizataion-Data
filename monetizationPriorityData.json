@@ -14,7 +14,7 @@
     "AdMob"
   ],
   "bannerPriority": [
-    "UnityAds",
-    "AdMob"
+    "AdMob",
+    "UnityAds"
   ]
 }
