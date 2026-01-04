@@ -1,6 +1,6 @@
 {
 "canShowBanner": true,
-"canShowInterstitial": false,
+"canShowInterstitial": true,
   "isTestUnity": true,
 
   "interstitialPriority": [
