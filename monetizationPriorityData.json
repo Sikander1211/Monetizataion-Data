@@ -1,18 +1,18 @@
 {
 "canShowBanner": true,
-"canShowInterstitial": false,
+"canShowInterstitial": true,
   "isTestUnity": true,
 
   "interstitialPriority": [
-    "UnityAds",
-    "AdMob"
+    "AdMob",
+    "UnityAds"
   ],
   "rewardedPriority": [
-    "UnityAds",
-    "AdMob"
+    "AdMob",
+    "UnityAds"
   ],
   "bannerPriority": [
-    "UnityAds",
-    "AdMob"
+    "AdMob",
+    "UnityAds"
   ]
 }
