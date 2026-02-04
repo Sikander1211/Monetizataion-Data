@@ -1,7 +1,7 @@
 {
 "canShowBanner": true,
 "canShowInterstitial": true,
-  "isTestUnity": true,
+  "isTestUnity": false,
 
   "interstitialPriority": [
     "UnityAds",
