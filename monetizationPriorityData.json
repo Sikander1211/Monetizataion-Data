@@ -4,15 +4,15 @@
   "isTestUnity": true,
 
   "interstitialPriority": [
-    "AdMob",
-    "UnityAds"
+    "UnityAds",
+    "AdMob"
   ],
   "rewardedPriority": [
-    "AdMob",
-    "UnityAds"
+    "UnityAds",
+    "AdMob"
   ],
   "bannerPriority": [
-    "AdMob",
-    "UnityAds"
+    "UnityAds",
+    "AdMob"
   ]
 }
